@@ -1,0 +1,67 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+
+  {
+    "title": "Python",
+    "imageSrc": "skills/pthon.png"
+  },
+
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+
+  {
+    "title": "C++",
+    "imageSrc": "skills/cplus.png"
+  },
+
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+
+
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/powerbia.png"
+  },
+
+
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+
+  {
+    "title": "Bash",
+    "imageSrc": "skills/bash.png"
+  }
+
+
+ 
+
+ 
+  
+]

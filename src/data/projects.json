@@ -1,0 +1,37 @@
+[
+  {
+    "title": "CNN based ANPR",
+    "imageSrc": "projects/cnn.png",
+    "description": "Designed an automated vehicle number plate recognition system using CNNs and image processing.",
+    "skills": ["Pycharm", "Jupyter", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Number-Plate-Detection"
+  },
+  {
+    "title": "IoT based Poultry Management",
+    "imageSrc": "projects/iot.png",
+    "description": "Developed an automatic system for monitoring and managing poultry farming efficiently.",
+    "skills": ["Embedded C", "Node MCU", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Smart-Poultry-Management"
+  },
+  {
+    "title": "E-Commerce with Dynamic Pricing",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "Built an e-commerce website using Machine Learning to optimize product pricing.",
+    "skills": ["React", "Jupyter", "Django"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Dynamic-Pricing"
+  },
+
+  {
+    "title": "Smart Weather Monitor",
+    "imageSrc": "projects/iotsecond.png",
+    "description": "Created an IoT system with a website to track temperature, humidity, and dust concentration in real time.",
+    "skills": ["Embedded C", "Arduino", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Smart-Weather-Monitor"
+  }
+
+
+]

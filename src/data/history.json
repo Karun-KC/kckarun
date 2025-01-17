@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Adjunct Lecturer",
+    "organisation": "Citizen College",
+    "startDate": "Sept, 2023",
+    "endDate": "July, 2024",
+    "experiences": ["Instructor of digital logic systems", "Managed syllabus & assignments"],
+    "imageSrc": "history/lecturer.png"
+  },
+  {
+    "role": "Network Engineer Temp",
+    "organisation": "Wepro Technology",
+    "startDate": "May, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": ["Troubleshoot network and server issues", "Performed initial analysis and escalations"],
+    "imageSrc": "history/networkengineer.png"
+  },
+  {
+    "role": "System Administrator Intern",
+    "organisation": "Wepro Technology",
+    "startDate": "May, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Installed firewalls, antivirus and 2FA"],
+    "imageSrc": "history/systemadmin.png"
+  },
+
+  {
+    "role": "IT Support",
+    "organisation": "Oxford International Publication",
+    "startDate": "May, 2021",
+    "endDate": "Sept, 2021",
+    "experiences": [
+      "Updated website design and content."
+    ],
+    "imageSrc": "history/itsupport.png"
+  }
+
+
+]
