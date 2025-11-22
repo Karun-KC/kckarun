@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Oracle Virtual Private Database (VPD) Implementation for Healthcare System",
+    "imageSrc": "projects/oracle-vpd.png",
+    "description": "Designed and implemented an Oracle VPD to enforce RBAC and least privilege for HIPAA compliance",
+    "skills": ["PL/SQL", "Oracle Database", "Row Level Security"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Oracle-Virtual-Private-Database-VPD-Implementation"
+  },
+  {
+    "title": "Cloud-Based Windows Server Environment Deployment",
+    "imageSrc": "projects/windows-server.png",
+    "description": "Configured Windows Server 2022 with Active Directory, network services, and shared resources on Azure",
+    "skills": ["DNS", "DHCP", "DFS", "GPO", "AD DS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC"
+  },
+  {
+    "title": "CNN-Based Automatic Number Plate Recognition (ANPR)",
+    "imageSrc": "projects/cnn.png",
+    "description": "Built a CNN-driven system for automated vehicle license plate detection and recognition.",
+    "skills": ["Pycharm", "Jupyter", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Number-Plate-Detection",
+    "researchPaper": "https://www.researchgate.net/publication/377257838_CNN_based_System_for_Automatic_Number_Plate_Recognition",
+    "doi": "10.36548/jscp.2023.4.002"
+  },
+  {
+    "title": "IoT based Smart Poultry Management System",
+    "imageSrc": "projects/iot.png",
+    "description": "Developed an IoT network automating farm environments by processing and securing real-time data.",
+    "skills": ["Embedded C", "Node MCU", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Smart-Poultry-Management",
+    "researchPaper": "https://www.researchgate.net/publication/380119628_IoT_based_Smart_Poultry_Management_System",
+    "doi": "10.36548/jismac.2024.1.004"
+  },
+  {
+    "title": "Dynamic Pricing E-Commerce Site",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "Built a dynamic pricing engine for e-commerce using Python and machine learning, integrating a predictive model with a web app to serve real-time price recommendations.",
+    "skills": ["Python", "Predictive Modeling", "Pandas", "Django"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Dynamic-Pricing"
+  },
+  {
+    "title": "Smart Weather Monitor",
+    "imageSrc": "projects/iotsecond.png",
+    "description": "Created an IoT system with a website to track temperature, humidity, and dust concentration in real time.",
+    "skills": ["Embedded C", "Arduino", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karun-KC/Smart-Weather-Monitor"
+  }
+
+
+]

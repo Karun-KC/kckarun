@@ -1,0 +1,269 @@
+.container {
+  position: relative;
+  padding: 6rem 8%;
+  z-index: 1;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 4rem;
+  position: relative;
+  display: inline-block;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 2px;
+}
+
+.timeline {
+  max-width: 900px;
+  margin: 0 auto;
+  position: relative;
+  padding-left: 50px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
+  border-radius: 2px;
+}
+
+.timelineItem {
+  position: relative;
+  margin-bottom: 3rem;
+  padding-left: 30px;
+}
+
+.timelineDot {
+  width: 20px;
+  height: 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: 4px solid var(--color-bg);
+  border-radius: 50%;
+  position: absolute;
+  left: -10px;
+  top: 20px;
+  z-index: 2;
+  box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.2);
+}
+
+.timelineIcon img {
+  width: 22px;
+  height: 22px;
+}
+
+.timelineContent {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(102, 126, 234, 0.2);
+  border-radius: 15px;
+  padding: 2rem;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+  position: relative;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+/* Cybersecurity themed background for Master's */
+.cybersecurity .timelineContent {
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90)),
+    url('/assets/about/cybersecurity-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  border: 1px solid rgba(102, 126, 234, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.cybersecurity .timelineContent:hover {
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.87), rgba(255, 255, 255, 0.87)),
+    url('/assets/about/cybersecurity-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  border-color: rgba(102, 126, 234, 0.5);
+}
+
+/* Electronics engineering themed background for Bachelor's */
+.electronics .timelineContent {
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90)),
+    url('/assets/about/electronics-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  border: 1px solid rgba(255, 152, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.electronics .timelineContent:hover {
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.87), rgba(255, 255, 255, 0.87)),
+    url('/assets/about/electronics-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  border-color: rgba(255, 152, 0, 0.5);
+}
+
+.timelineContent::before {
+  content: '';
+  position: absolute;
+  left: -8px;
+  top: 20px;
+  width: 0;
+  height: 0;
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent;
+  border-right: 8px solid rgba(102, 126, 234, 0.2);
+}
+
+.timelineContent:hover {
+  background: rgba(255, 255, 255, 0.9);
+  border-color: rgba(102, 126, 234, 0.4);
+  transform: translateX(10px);
+  box-shadow: 0 10px 30px rgba(102, 126, 234, 0.2);
+}
+
+.timelineDate {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #667eea;
+  background: rgba(102, 126, 234, 0.1);
+  padding: 0.4rem 1rem;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+}
+
+.timelineContent h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 0.5rem;
+}
+
+.timelineContent h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 0.3rem;
+}
+
+.location {
+  font-size: 0.95rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 0.5rem !important;
+}
+
+.specialization {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #764ba2;
+  margin-bottom: 1rem !important;
+}
+
+.highlights {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(102, 126, 234, 0.2);
+}
+
+.highlights p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    padding: 4rem 5%;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .timeline {
+    padding-left: 40px;
+  }
+
+  .timeline::before {
+    left: 15px;
+  }
+
+  .timelineIcon {
+    left: -26px;
+    width: 36px;
+    height: 36px;
+  }
+
+  .timelineIcon img {
+    width: 18px;
+    height: 18px;
+  }
+
+  .timelineItem {
+    padding-left: 20px;
+  }
+
+  .timelineContent {
+    padding: 1.5rem;
+  }
+
+  .timelineContent h3 {
+    font-size: 1.2rem;
+  }
+
+  .timelineContent h4 {
+    font-size: 1rem;
+  }
+
+  .timelineContent:hover {
+    transform: translateX(5px);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    padding: 3rem 4%;
+  }
+
+  .title {
+    font-size: 1.8rem;
+  }
+
+  .timelineContent {
+    padding: 1.2rem;
+  }
+
+  .timelineDate {
+    font-size: 0.85rem;
+  }
+
+  .timelineContent h3 {
+    font-size: 1.1rem;
+  }
+
+  .timelineContent h4 {
+    font-size: 0.95rem;
+  }
+}

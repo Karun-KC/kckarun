@@ -1,0 +1,90 @@
+{
+  "🔐 Cybersecurity": [
+    {
+      "title": "Wireshark",
+      "imageSrc": "skills/wireshark.jpg"
+    },
+    {
+      "title": "Burp Suite",
+      "imageSrc": "skills/burpsuite.png"
+    },
+    {
+      "title": "Metasploit",
+      "imageSrc": "skills/metasploit.png"
+    },
+    {
+      "title": "Nmap",
+      "imageSrc": "skills/nmap.jpg"
+    },
+    {
+      "title": "SIEM",
+      "imageSrc": "skills/siem.png"
+    }
+  ],
+  "🌍 Networking & Systems": [
+    {
+      "title": "TCP/IP",
+      "imageSrc": "skills/tcpip.png"
+    },
+    {
+      "title": "VPN",
+      "imageSrc": "skills/vpn.png"
+    },
+    {
+      "title": "VLAN",
+      "imageSrc": "skills/vlan.png"
+    },
+    {
+      "title": "DNS",
+      "imageSrc": "skills/dns.png"
+    },
+    {
+      "title": "Hyper-V",
+      "imageSrc": "skills/hyperv.png"
+    }
+  ],
+  "🧑‍💻 Programming & Automation": [
+    {
+      "title": "Python",
+      "imageSrc": "skills/pthon.png"
+    },
+    {
+      "title": "Bash",
+      "imageSrc": "skills/bash.png"
+    },
+    {
+      "title": "PowerShell",
+      "imageSrc": "skills/powershell.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    }
+  ],
+  "🛠 Tools & Web Dev": [
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "VS Code",
+      "imageSrc": "skills/vscode.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node.js",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    }
+  ]
+}

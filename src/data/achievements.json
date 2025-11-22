@@ -1,0 +1,32 @@
+[
+  {
+    "title": "First Runner-Up, Huskies Hackathon",
+    "organization": "St. Cloud State University",
+    "date": "November 2025",
+    "description": "Collaborated in a team of 3 to build Candy Finder, a Halloween-themed web app to find, rate, and add houses with candy. Developed using React, Node.js, and Vercel; deployed a fully functional MVP within 24 hours.",
+    "link": "https://candy-finder.vercel.app/",
+    "linkText": "Candy Finder",
+    "imageSrc": "achievements/huskies.jpg"
+  },
+  {
+    "title": "Business Student Executive Council Scholarship",
+    "organization": "St. Cloud State University",
+    "date": "April 2025",
+    "description": "Awarded for outstanding academic performance and leadership contributions to the university community.",
+    "imageSrc": "achievements/scsu.jpg"
+  },
+  {
+    "title": "First Place, National Robotics Competition",
+    "organization": "Computer Association of Nepal",
+    "date": "February 2022",
+    "description": "Led a team to victory in the Robo-Soccer competition. Built a Bluetooth-controlled robot accessible via mobile phone, demonstrating technical innovation and teamwork.",
+    "imageSrc": "achievements/robotics.jpg"
+  },
+  {
+    "title": "Full-Ride Engineering Scholarship",
+    "organization": "Paschimanchal Campus, Tribhuvan University",
+    "date": "2018-2022",
+    "description": "Awarded for exceptional academic performance and top ranking in the highly competitive Institute of Engineering entrance exam. Recognized for academic excellence and leadership potential in engineering.",
+    "imageSrc": "achievements/ioe.jpeg"
+  }
+]

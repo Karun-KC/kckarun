@@ -1,0 +1,50 @@
+[
+  {
+    "title": "CompTIA Security+ Certification",
+    "issuer": "CompTIA",
+    "issueDate": "Issued Jul 2025 · Expires Jul 2028",
+    "description": "A globally recognized cybersecurity certification validating core skills in network security, risk management, incident response, and threat analysis.",
+    "imageSrc": "certifications/comptia.png",
+    "credentialUrl": "https://www.credly.com/badges/d1a89bf6-6a73-4e55-8ce9-e74c64eba0d1/linked_in_profile"
+  },
+  {
+    "title": "TestOut Ethical Hacker Pro",
+    "issuer": "TestOut Corporation",
+    "issueDate": "Issued Apr 2025",
+    "description": "Hands-on ethical hacking training focused on penetration testing, vulnerability assessment, and offensive security techniques through simulation-based labs.",
+    "imageSrc": "certifications/testout-ethical.png",
+    "credentialUrl": "https://certification.testout.com/verifycert/6-1C6-VPDUT4"
+  },
+  {
+    "title": "ISC2 Certified in Cybersecurity (CC)",
+    "issuer": "ISC2",
+    "issueDate": "Issued Nov 2024 · Expires Nov 2027",
+    "description": "Entry-level cybersecurity certification demonstrating core security knowledge in access control, network security, cryptography, and business continuity planning.",
+    "imageSrc": "certifications/isc2.png",
+    "credentialUrl": "https://www.credly.com/badges/8886e976-c0b6-4b2e-ba78-1bbe3db4bf34/linked_in_profile"
+  },
+  {
+    "title": "TestOut Hybrid Server Pro: Core",
+    "issuer": "TestOut Corporation",
+    "issueDate": "Issued Nov 2024",
+    "description": "Covers key Windows Server administration skills including server configuration, virtualization, networking, and hybrid cloud fundamentals.",
+    "imageSrc": "certifications/testout-server.png",
+    "credentialUrl": "https://certification.testout.com/verifycert/6-1C6-VLF8F7"
+  },
+  {
+    "title": "Registered Engineer",
+    "issuer": "Nepal Engineering Council",
+    "issueDate": "Issued Apr 2024",
+    "description": "Professional engineering license validating expertise in electronic engineering, automation systems, robotics, and applied engineering practices.",
+    "imageSrc": "certifications/nec.png",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Foundations of Project Management",
+    "issuer": "Google (via Coursera)",
+    "issueDate": "Issued Jun 2022 · Expires Aug 2022",
+    "description": "Introductory project management course covering project planning, communication strategies, workflow management, and team coordination.",
+    "imageSrc": "certifications/google.png",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/XMSU789P5VBW"
+  }
+]

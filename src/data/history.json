@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Associate",
+    "organisation": "Chartwells Higher Education Dining Services",
+    "startDate": "Aug, 2025",
+    "endDate": "Present",
+    "experiences": ["Supported new hire onboarding and daily operations", "Assisted with administrative tasks to ensure smooth workflow"],
+    "imageSrc": "history/chartwells.png"
+  },
+  {
+    "role": "Adjunct Lecturer",
+    "organisation": "Citizen College",
+    "startDate": "Sept, 2023",
+    "endDate": "July, 2024",
+    "experiences": ["Taught Digital Logic Systems to undergraduate students.", "Created and organized course materials to support learning."],
+    "imageSrc": "history/lecturer.png"
+  },
+  {
+    "role": "Network and Systems Engineering Temp",
+    "organisation": "Wepro Technology",
+    "startDate": "May, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": ["Resolved L1 and L2 issues involving TCP IP, VLANs, and Windows Server.", "Analyzed network faults and escalated critical cases as needed."],
+    "imageSrc": "history/networkengineer.png"
+  },
+  {
+    "role": "System Administrator Intern",
+    "organisation": "Wepro Technology",
+    "startDate": "May, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Installed firewalls, antivirus tools, and two factor authentication.", "Supported server and network maintenance for stable system operations."],
+    "imageSrc": "history/systemadmin.png"
+  },
+
+  {
+    "role": "IT Support",
+    "organisation": "Oxford International Publication",
+    "startDate": "May, 2021",
+    "endDate": "Sept, 2021",
+    "experiences": [
+      "Assisted with website updates, layout adjustments, and content presentation.", "Supported day to day technical and online operations."
+    ],
+    "imageSrc": "history/itsupport.png"
+  }
+
+
+]
