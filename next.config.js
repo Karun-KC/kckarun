@@ -4,7 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '',
+  basePath: '/kckarun',
+  assetPrefix: '/kckarun/',
   trailingSlash: true,
 }
 
