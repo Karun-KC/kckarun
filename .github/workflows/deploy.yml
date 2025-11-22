@@ -56,3 +56,4 @@ jobs:
           publish_dir: ./out
           publish_branch: gh-pages
           force_orphan: true
+          cname: kckarun.com.np
