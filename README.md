@@ -1,8 +1,11 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built with Next.js showcasing professional experience, skills, projects, and achievements.
 
-Currently, two official plugins are available:
+## Live Site
+Visit: [kckarun.com.np](https://kckarun.com.np)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- Next.js 14
+- TypeScript
+- CSS Modules
